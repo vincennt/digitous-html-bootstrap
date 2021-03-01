@@ -12,12 +12,12 @@ Recreer en utiliser la différence entre col-x et col-md-x pour reproduire le de
 
 ## Exercice 3
 
-Creer votre premier formulaire en utilsant les élements [`form` du framework bootstrap](https://getbootstrap.com/docs/4.0/components/forms/)
+Creer votre premier formulaire en utilsant les élements [`form` du framework bootstrap](https://getbootstrap.com/docs/5.0/forms/overview/)
 ![Exercice 3](exercices/exercice3.png?raw=true)
 
 ## Exercice 4
 
-En vous aidant des exercices précedants ainsi que de la [documentation officielle bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/), reproduiser votre première page de fan d'Eminem
+En vous aidant des exercices précedants ainsi que de la [documentation officielle bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/), reproduiser votre première page de fan d'Eminem
 
 ![Exercice 4](exercices/exercice4.png?raw=true)
 
