@@ -14,28 +14,34 @@
   </head>
 
   <body>
-    <div class="container">
-      <div class="row gap-3">
-        <div class="col-4 bg-warning">Column</div>
-        <div class="col-4 bg-warning">Column</div>
-      </div>
-      <br />
-
-      <div class="row gap-3">
-        <div class="col-4 bg-primary">Column</div>
-        <div class="col-4 bg-primary">Column</div>
-        <div class="col-4 bg-primary">Column</div>
-        <div class="col-4 bg-primary">Column</div>
-      </div>
-      <br />
-
-      <div class="row gap-3 justify-content-center">
-        <div class="col-14 bg-danger">Column</div>
-      </div>
-      <br />
-      <div class="row gap-3 justify-content-end">
-        <div class="col-4 bg-danger">Column</div>
-      </div>
+    <form>
+      <div class="container">
+        <div class="mb-3">
+          <label for="exampleInputEmail1" class="form-label"> Email</label>
+          <input
+            type="email"
+            class="form-control"
+            id="exampleInputEmail1"
+            aria-describedby="emailHelp"
+            placeholder="Votre email"
+           
+          
+          
+          />
+          
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Mot de passe</label>
+          <input
+            type="password"
+            class="form-control"
+            id="exampleInputPassword1"
+            placeholder="Votre mot de passe"
+          />
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Envoyer</button>
+      </form>
     </div>
   </body>
 </html>
